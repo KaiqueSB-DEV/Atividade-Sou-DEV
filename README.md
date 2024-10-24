@@ -1,7 +1,8 @@
 # Atividade-Sou-DEV
-A seguir, mostrarei o desenvolvimento do programa passo a passo
 
 O trabalho em questão tem como principal objetivo desenvolver um programa que simule o cálculo de uma fatura de cartão de crédito.
+
+A seguir, mostrarei o desenvolvimento do programa passo a passo
 
 total_fatura = 0: Inicializa o valor total da fatura com zero. A cada compra inserida será atualizado.
 
