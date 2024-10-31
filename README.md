@@ -1,6 +1,6 @@
 # Atividade-Sou-DEV
 
-O trabalho em questão tem como principal objetivo desenvolver um programa que simule o cálculo de uma fatura de cartão de crédito.
+Este projeto, proposto pela Professora Maiara Sacramento no curso de Análise de Sistemas (1º Semestre) na Faculdade Unime Anhanguera, foi desenvolvido para a disciplina de Lógica e Matemática Computacional. Tem como principal objetivo desenvolver um programa que simule o cálculo de uma fatura de cartão de crédito.
 
 A seguir, mostrarei o desenvolvimento do programa passo a passo
 
